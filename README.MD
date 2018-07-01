@@ -10,7 +10,7 @@ It provides a script and tool set that is registered to the system by calling th
 
 Currently this is untested and not setup routines are created.
 
-Scripts are taken from the LinuxScripts repo so may be stable content by no enrolement.
+Scripts are taken from the LinuxScripts repo so may be stable content by no enrollment.
 
 ### Warranty
 
